@@ -1,21 +1,12 @@
 # Project-Accounts
 Project Accounts
-takie tam 
 ##Narzędzia:##
-*Języki programowania i frameworki: C++
-*Bazy danych, np. MySQL, MS SQL.
+*Języki programowania i frameworki: C#, AutoIT, Visual Studi Community
+*Bazy danych, SQL
 *Systemy operacyjne: Windows
-*Poznane metodologie zarządzania: SCRUM ,Kanban.
-*Narzędzia do zarządzania testowaniem: Jira, Postman
+*Poznane metodologie zarządzania: SCRUM ,Waterfall
+*Narzędzia do zarządzania testowaniem: Mantis, Jira, HPALM, TestLink
 *Narzędzia wspomagające testowanie:  konsola Chrome
-
-## Tools: ##
-* Programming languages and frameworks: C ++
-* Databases, e.g. MySQL, MS SQL.
-* Operating systems: Windows
-* Known management methodologies: SCRUM, Kanban.
-* Test management tools: Jira, Postman
-* Tools supporting testing: Chrome console
 
 ##Kursy##
 **Software Development Academy – tester oprogramowania**
@@ -24,7 +15,6 @@ takie tam
 *Agile i Waterfall
 *Testowanie wspierane narzędziami
 *Automatyzacja testów (Java, Selenium Webdriver)
-*Testowanie w metodyce BDD
 
 ## ## Courses
 ** Software Development Academy - software tester **
@@ -33,7 +23,6 @@ takie tam
 * Agile and Waterfall
 * Testing supported by tools
 * Test automation (Java, Selenium Webdriver)
-* Testing in BDD methodology
 
 ##Grupy
 
