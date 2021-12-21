@@ -6,15 +6,15 @@ Project Accounts
 *Systemy operacyjne: Windows
 *Poznane metodologie zarządzania: SCRUM ,Waterfall
 *Narzędzia do zarządzania testowaniem: Mantis, Jira, HPALM, TestLink
-*Narzędzia wspomagające testowanie:  konsola Chrome
+*Narzędzia wspomagające testowanie:  konsola Chrome, AutoIT
 
 ##Kursy##
 **Software Development Academy – tester oprogramowania**
 *Testowanie w oparciu o ryzyko
 *Techniki projektowania testów
 *Agile i Waterfall
-*Testowanie wspierane narzędziami
-*Automatyzacja testów (Java, Selenium Webdriver)
+*Testowanie wspierane narzędziami (Jenkins, Mantis, TestLink)
+*Automatyzacja testów ((C#, Visual Studio Community, Selenium Webdriver)
 
 ## ## Courses
 ** Software Development Academy - software tester **
@@ -22,7 +22,7 @@ Project Accounts
 * Test design techniques
 * Agile and Waterfall
 * Testing supported by tools
-* Test automation (Java, Selenium Webdriver)
+* Test automation (C#, Visual Studio Community, Selenium Webdriver)
 
 ##Grupy
 
@@ -53,5 +53,5 @@ Zgłoszenie defektu.
 [Test aplikacji, która po rejestracji użytkownika umożliwia odbieranie kodów rabatowych na wybrane artykuły. Podczas testowania formularza rejestracji wyskakuje błąd](https://drive.google.com/drive/folders/1WD3FQriCrsYyGr6EFuC_u0QxSFGSaJiz?usp=sharing)
 
 ##My programs
-*[C++](https://code.sololearn.com/cuiBDrdN0NSn) 
+*[C#](https://www.sololearn.com/certificates/course/en/17306767/1080/landscape/png)
 
